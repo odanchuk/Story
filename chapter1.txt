@@ -1,2 +1,3 @@
 Hello world! 
-Web development bootcamp
+
+This is chapter 1.
